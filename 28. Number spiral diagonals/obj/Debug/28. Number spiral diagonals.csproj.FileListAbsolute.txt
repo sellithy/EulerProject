@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\bin\Debug\_28.Number_spiral_diagonals.exe.config
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\bin\Debug\_28.Number_spiral_diagonals.exe
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\bin\Debug\_28.Number_spiral_diagonals.pdb
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\obj\Debug\28. Number spiral diagonals.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\obj\Debug\_28.Number_spiral_diagonals.exe
+C:\Users\sheha\source\repos\Project Euler\28. Number spiral diagonals\obj\Debug\_28.Number_spiral_diagonals.pdb

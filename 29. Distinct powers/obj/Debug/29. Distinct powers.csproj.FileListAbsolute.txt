@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\bin\Debug\_29.Distinct_powers.exe.config
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\bin\Debug\_29.Distinct_powers.exe
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\bin\Debug\_29.Distinct_powers.pdb
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\obj\Debug\29. Distinct powers.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\obj\Debug\29. Distinct powers.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\obj\Debug\_29.Distinct_powers.exe
+C:\Users\sheha\source\repos\Project Euler\29. Distinct powers\obj\Debug\_29.Distinct_powers.pdb

@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\bin\Debug\_39.Integer_right_triangles.exe.config
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\bin\Debug\_39.Integer_right_triangles.exe
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\bin\Debug\_39.Integer_right_triangles.pdb
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\obj\Debug\39. Integer right triangles.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\obj\Debug\39. Integer right triangles.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\obj\Debug\_39.Integer_right_triangles.exe
+C:\Users\sheha\source\repos\Project Euler\39. Integer right triangles\obj\Debug\_39.Integer_right_triangles.pdb

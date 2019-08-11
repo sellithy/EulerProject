@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\10001st prime\bin\Debug\10001st prime.exe.config
+C:\Users\sheha\source\repos\Project Euler\10001st prime\bin\Debug\10001st prime.exe
+C:\Users\sheha\source\repos\Project Euler\10001st prime\bin\Debug\10001st prime.pdb
+C:\Users\sheha\source\repos\Project Euler\10001st prime\obj\Debug\10001st prime.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\10001st prime\obj\Debug\10001st prime.exe
+C:\Users\sheha\source\repos\Project Euler\10001st prime\obj\Debug\10001st prime.pdb

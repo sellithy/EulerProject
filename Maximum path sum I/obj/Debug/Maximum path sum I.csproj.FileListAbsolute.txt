@@ -1,0 +1,8 @@
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\bin\Debug\Triangle.txt
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\bin\Debug\Maximum path sum I.exe.config
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\bin\Debug\Maximum path sum I.exe
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\bin\Debug\Maximum path sum I.pdb
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\obj\Debug\Maximum path sum I.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\obj\Debug\Maximum path sum I.exe
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\obj\Debug\Maximum path sum I.pdb
+C:\Users\sheha\source\repos\Project Euler\Maximum path sum I\obj\Debug\Maximum path sum I.csprojAssemblyReference.cache

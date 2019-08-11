@@ -1,0 +1,8 @@
+C:\Users\sheha\source\repos\Project Euler\Extras\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\Extras\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\Extras\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\Extras\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\Extras\obj\Debug\Extras.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Extras\obj\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\Extras\obj\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\Extras\obj\Debug\Extras.csprojAssemblyReference.cache

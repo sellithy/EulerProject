@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Lattice paths.exe.config
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Lattice paths.exe
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Lattice paths.pdb
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\obj\Debug\Lattice paths.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\obj\Debug\Lattice paths.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\obj\Debug\Lattice paths.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\obj\Debug\Lattice paths.exe
+C:\Users\sheha\source\repos\Project Euler\Lattice paths\obj\Debug\Lattice paths.pdb

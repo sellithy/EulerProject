@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\bin\Debug\_44.Pentagon_numbers.exe.config
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\bin\Debug\_44.Pentagon_numbers.exe
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\bin\Debug\_44.Pentagon_numbers.pdb
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\obj\Debug\44. Pentagon numbers.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\obj\Debug\44. Pentagon numbers.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\obj\Debug\_44.Pentagon_numbers.exe
+C:\Users\sheha\source\repos\Project Euler\44. Pentagon numbers\obj\Debug\_44.Pentagon_numbers.pdb

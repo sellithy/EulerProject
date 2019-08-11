@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\_43.Sub_string_divisibility.exe.config
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\_43.Sub_string_divisibility.exe
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\_43.Sub_string_divisibility.pdb
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\obj\Debug\43. Sub-string divisibility.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\obj\Debug\43. Sub-string divisibility.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\obj\Debug\43. Sub-string divisibility.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\obj\Debug\_43.Sub_string_divisibility.exe
+C:\Users\sheha\source\repos\Project Euler\43. Sub-string divisibility\obj\Debug\_43.Sub_string_divisibility.pdb

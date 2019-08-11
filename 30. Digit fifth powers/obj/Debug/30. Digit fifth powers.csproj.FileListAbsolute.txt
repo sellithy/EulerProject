@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\bin\Debug\_30.Digit_fifth_powers.exe.config
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\bin\Debug\_30.Digit_fifth_powers.exe
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\bin\Debug\_30.Digit_fifth_powers.pdb
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\obj\Debug\30. Digit fifth powers.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\obj\Debug\30. Digit fifth powers.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\obj\Debug\_30.Digit_fifth_powers.exe
+C:\Users\sheha\source\repos\Project Euler\30. Digit fifth powers\obj\Debug\_30.Digit_fifth_powers.pdb

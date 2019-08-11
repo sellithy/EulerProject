@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\48\obj\Debug\48.Self powers.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\48\bin\Debug\48.exe.config
+C:\Users\sheha\source\repos\Project Euler\48\bin\Debug\48.exe
+C:\Users\sheha\source\repos\Project Euler\48\bin\Debug\48.pdb
+C:\Users\sheha\source\repos\Project Euler\48\obj\Debug\48.exe
+C:\Users\sheha\source\repos\Project Euler\48\obj\Debug\48.pdb

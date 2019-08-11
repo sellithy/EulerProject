@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\bin\Debug\Longest Collatz sequence.exe.config
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\bin\Debug\Longest Collatz sequence.exe
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\bin\Debug\Longest Collatz sequence.pdb
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\obj\Debug\Longest Collatz sequence.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\obj\Debug\Longest Collatz sequence.exe
+C:\Users\sheha\source\repos\Project Euler\Longest Collatz sequence\obj\Debug\Longest Collatz sequence.pdb

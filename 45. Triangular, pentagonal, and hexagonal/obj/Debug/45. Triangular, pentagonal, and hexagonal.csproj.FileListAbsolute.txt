@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\bin\Debug\_45.Triangular__pentagonal__and_hexagonal.exe.config
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\bin\Debug\_45.Triangular__pentagonal__and_hexagonal.exe
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\bin\Debug\_45.Triangular__pentagonal__and_hexagonal.pdb
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\obj\Debug\45. Triangular, pentagonal, and hexagonal.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\obj\Debug\45. Triangular, pentagonal, and hexagonal.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\obj\Debug\_45.Triangular__pentagonal__and_hexagonal.exe
+C:\Users\sheha\source\repos\Project Euler\45. Triangular, pentagonal, and hexagonal\obj\Debug\_45.Triangular__pentagonal__and_hexagonal.pdb

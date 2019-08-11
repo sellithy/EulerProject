@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\bin\Debug\Largest prime factor.exe.config
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\bin\Debug\Largest prime factor.exe
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\bin\Debug\Largest prime factor.pdb
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\obj\Debug\Largest prime factor.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\obj\Debug\Largest prime factor.exe
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\obj\Debug\Largest prime factor.pdb
+C:\Users\sheha\source\repos\Project Euler\Largest prime factor\obj\Debug\Largest prime factor.csprojAssemblyReference.cache

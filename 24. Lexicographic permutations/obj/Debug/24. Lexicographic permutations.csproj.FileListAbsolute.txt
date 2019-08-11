@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\_24.Lexicographic_permutations.exe.config
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\_24.Lexicographic_permutations.exe
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\_24.Lexicographic_permutations.pdb
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\obj\Debug\24. Lexicographic permutations.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\obj\Debug\24. Lexicographic permutations.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\obj\Debug\24. Lexicographic permutations.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\obj\Debug\_24.Lexicographic_permutations.exe
+C:\Users\sheha\source\repos\Project Euler\24. Lexicographic permutations\obj\Debug\_24.Lexicographic_permutations.pdb

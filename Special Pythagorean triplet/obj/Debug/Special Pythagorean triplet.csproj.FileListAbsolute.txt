@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe.config
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.exe
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\bin\Debug\Special Pythagorean triplet.pdb
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.exe
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.pdb
+C:\Users\sheha\source\repos\Project Euler\Special Pythagorean triplet\obj\Debug\Special Pythagorean triplet.csprojAssemblyReference.cache

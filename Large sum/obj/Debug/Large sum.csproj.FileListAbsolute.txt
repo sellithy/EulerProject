@@ -1,0 +1,8 @@
+C:\Users\sheha\source\repos\Project Euler\Large sum\bin\Debug\100 50-digit numbers.txt
+C:\Users\sheha\source\repos\Project Euler\Large sum\bin\Debug\Large sum.exe.config
+C:\Users\sheha\source\repos\Project Euler\Large sum\bin\Debug\Large sum.exe
+C:\Users\sheha\source\repos\Project Euler\Large sum\bin\Debug\Large sum.pdb
+C:\Users\sheha\source\repos\Project Euler\Large sum\obj\Debug\Large sum.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Large sum\obj\Debug\Large sum.exe
+C:\Users\sheha\source\repos\Project Euler\Large sum\obj\Debug\Large sum.pdb
+C:\Users\sheha\source\repos\Project Euler\Large sum\obj\Debug\Large sum.csprojAssemblyReference.cache

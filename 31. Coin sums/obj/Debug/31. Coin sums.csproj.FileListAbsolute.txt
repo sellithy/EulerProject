@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\bin\Debug\_31.Coin_sums.exe.config
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\bin\Debug\_31.Coin_sums.exe
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\bin\Debug\_31.Coin_sums.pdb
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\obj\Debug\31. Coin sums.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\obj\Debug\31. Coin sums.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\obj\Debug\_31.Coin_sums.exe
+C:\Users\sheha\source\repos\Project Euler\31. Coin sums\obj\Debug\_31.Coin_sums.pdb

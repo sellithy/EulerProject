@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\bin\Debug\Counting Sundays.exe.config
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\bin\Debug\Counting Sundays.exe
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\bin\Debug\Counting Sundays.pdb
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\obj\Debug\Counting Sundays.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\obj\Debug\Counting Sundays.exe
+C:\Users\sheha\source\repos\Project Euler\Counting Sundays\obj\Debug\Counting Sundays.pdb

@@ -1,0 +1,8 @@
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\bin\Debug\words.txt
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\bin\Debug\_42.Coded_triangle_numbers.exe.config
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\bin\Debug\_42.Coded_triangle_numbers.exe
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\bin\Debug\_42.Coded_triangle_numbers.pdb
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\obj\Debug\42. Coded triangle numbers.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\obj\Debug\42. Coded triangle numbers.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\obj\Debug\_42.Coded_triangle_numbers.exe
+C:\Users\sheha\source\repos\Project Euler\42. Coded triangle numbers\obj\Debug\_42.Coded_triangle_numbers.pdb

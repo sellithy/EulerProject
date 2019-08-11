@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\_46.Goldbach_s_other_conjecture.exe.config
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\_46.Goldbach_s_other_conjecture.exe
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\_46.Goldbach_s_other_conjecture.pdb
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\obj\Debug\46. Goldbach's other conjecture.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\obj\Debug\46. Goldbach's other conjecture.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\obj\Debug\46. Goldbach's other conjecture.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\obj\Debug\_46.Goldbach_s_other_conjecture.exe
+C:\Users\sheha\source\repos\Project Euler\46. Goldbach's other conjecture\obj\Debug\_46.Goldbach_s_other_conjecture.pdb

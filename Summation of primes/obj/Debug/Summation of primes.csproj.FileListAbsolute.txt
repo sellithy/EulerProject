@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Summation of primes.exe.config
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Summation of primes.exe
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Summation of primes.pdb
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\obj\Debug\Summation of primes.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\obj\Debug\Summation of primes.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\obj\Debug\Summation of primes.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\obj\Debug\Summation of primes.exe
+C:\Users\sheha\source\repos\Project Euler\Summation of primes\obj\Debug\Summation of primes.pdb

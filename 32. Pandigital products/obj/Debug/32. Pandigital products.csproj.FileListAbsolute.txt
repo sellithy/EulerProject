@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\_32.Pandigital_products.exe.config
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\_32.Pandigital_products.exe
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\_32.Pandigital_products.pdb
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\obj\Debug\32. Pandigital products.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\obj\Debug\32. Pandigital products.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\obj\Debug\32. Pandigital products.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\obj\Debug\_32.Pandigital_products.exe
+C:\Users\sheha\source\repos\Project Euler\32. Pandigital products\obj\Debug\_32.Pandigital_products.pdb

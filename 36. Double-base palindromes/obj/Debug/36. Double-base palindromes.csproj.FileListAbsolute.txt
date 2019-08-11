@@ -1,0 +1,6 @@
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\bin\Debug\_36.Double_base_palindromes.exe.config
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\bin\Debug\_36.Double_base_palindromes.exe
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\bin\Debug\_36.Double_base_palindromes.pdb
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\obj\Debug\36. Double-base palindromes.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\obj\Debug\_36.Double_base_palindromes.exe
+C:\Users\sheha\source\repos\Project Euler\36. Double-base palindromes\obj\Debug\_36.Double_base_palindromes.pdb

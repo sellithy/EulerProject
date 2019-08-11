@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\bin\Debug\;26pb.exe.config
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\bin\Debug\;26pb.exe
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\bin\Debug\;26pb.pdb
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\obj\Debug\Smallest multiple.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\obj\Debug\;26pb.exe
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\obj\Debug\;26pb.pdb
+C:\Users\sheha\source\repos\Project Euler\Smallest multiple\obj\Debug\Smallest multiple.csprojAssemblyReference.cache

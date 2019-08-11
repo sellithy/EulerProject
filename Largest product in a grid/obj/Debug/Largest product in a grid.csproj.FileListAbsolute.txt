@@ -1,0 +1,8 @@
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\bin\Debug\NumberGrid.txt
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\bin\Debug\Largest product in a grid.exe.config
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\bin\Debug\Largest product in a grid.exe
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\bin\Debug\Largest product in a grid.pdb
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\obj\Debug\Largest product in a grid.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\obj\Debug\Largest product in a grid.exe
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\obj\Debug\Largest product in a grid.pdb
+C:\Users\sheha\source\repos\Project Euler\Largest product in a grid\obj\Debug\Largest product in a grid.csprojAssemblyReference.cache

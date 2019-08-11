@@ -1,0 +1,7 @@
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\bin\Debug\Sum square difference.exe.config
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\bin\Debug\Sum square difference.exe
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\bin\Debug\Sum square difference.pdb
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\obj\Debug\Sum square difference.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\obj\Debug\Sum square difference.exe
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\obj\Debug\Sum square difference.pdb
+C:\Users\sheha\source\repos\Project Euler\Sum square difference\obj\Debug\Sum square difference.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\_47.Distinct_primes_factors.exe.config
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\_47.Distinct_primes_factors.exe
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\_47.Distinct_primes_factors.pdb
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\obj\Debug\47. Distinct primes factors.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\obj\Debug\47. Distinct primes factors.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\obj\Debug\_47.Distinct_primes_factors.exe
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\obj\Debug\_47.Distinct_primes_factors.pdb
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\47. Distinct primes factors\obj\Debug\47. Distinct primes factors.csproj.CopyComplete

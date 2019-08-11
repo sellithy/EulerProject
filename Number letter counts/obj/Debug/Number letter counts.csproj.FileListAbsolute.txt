@@ -1,0 +1,9 @@
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\bin\Debug\PowersOfThousand.txt
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\bin\Debug\Number letter counts.exe.config
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\bin\Debug\Number letter counts.exe
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\bin\Debug\Number letter counts.pdb
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\obj\Debug\Number letter counts.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\obj\Debug\Number letter counts.exe
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\obj\Debug\Number letter counts.pdb
+C:\Users\sheha\source\repos\Project Euler\Number letter counts\obj\Debug\Number letter counts.csprojAssemblyReference.cache

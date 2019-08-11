@@ -1,0 +1,12 @@
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\NumbersNames.txt
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\_23.Non_abundant_sums.exe.config
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\_23.Non_abundant_sums.exe
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\_23.Non_abundant_sums.pdb
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\Extras.exe
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\Extras.pdb
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\bin\Debug\Extras.exe.config
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\obj\Debug\23. Non-abundant sums.csprojAssemblyReference.cache
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\obj\Debug\23. Non-abundant sums.csproj.CoreCompileInputs.cache
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\obj\Debug\23. Non-abundant sums.csproj.CopyComplete
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\obj\Debug\_23.Non_abundant_sums.exe
+C:\Users\sheha\source\repos\Project Euler\23. Non-abundant sums\obj\Debug\_23.Non_abundant_sums.pdb
